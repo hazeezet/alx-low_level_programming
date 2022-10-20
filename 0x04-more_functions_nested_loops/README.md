@@ -54,6 +54,6 @@ is a function that prints an integer using only _putchar().
 
 contains the _putchar() function definition.
 
-- holberton.h
+- main.h
 
 is the header file containing all the function prototypes used in this project.
